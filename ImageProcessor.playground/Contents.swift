@@ -8,7 +8,7 @@ import UIKit
 
 // Customizable Filter List: greyFilter, transparencyFilter, redFilter, greenFilter, blueFilter
 // Second value is intensity which accepts integers from 2 to 255
-var filterList = [("greensFilter", 30), ("transparencyFilter", 200)]
+var filterList = [("greenFilter", 30), ("transparencyFilter", 200)]
 
 
 // Processor Variables
